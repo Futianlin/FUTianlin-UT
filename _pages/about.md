@@ -33,7 +33,7 @@ Supervised by [Prof. Stefano Stramigioli](https://www.utwente.nl/en/research/our
 ### **MSc in Business Information Systems** *(Financial and Intelligent Technology Stream)*
 * **University:** [City University of Hong Kong](https://www.cityu.edu.hk/)
 * **Timeline:** 09/2025 — 06/2026
-* **Academic Standing:** GPA 3.99 / 4.30
+* **Academic Standing:** GPA 3.99 / 4.30 (with Distinction)
 
 ### **Bachelor of Software Engineering**
 * **University:** Minjiang University
