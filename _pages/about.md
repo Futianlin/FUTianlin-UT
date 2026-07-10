@@ -15,10 +15,11 @@ Supervised by [Prof. Stefano Stramigioli](https://www.utwente.nl/en/research/our
 
 ## Research Interests
 
-* **Brain-Computer Interface (BCI)**
+* Brain-Computer Interface (BCI)
+* Robotics
 * Non-invasive EEG signal processing
-* Graph Neural Networks (GNN)
-* Robotics and Augmented Reality (AR)
+* Graph Representation Learning
+* Reinforcement Learning
 * Multi-agent Systems
 
 ---
@@ -28,7 +29,6 @@ Supervised by [Prof. Stefano Stramigioli](https://www.utwente.nl/en/research/our
 ### **Doctor of Philosophy in Robotics**
 * **University:** [University of Twente](https://www.utwente.nl/en/)
 * **Timeline:** 10/2026 — 10/2030
-* **Funding:** Supported by the Chinese Scholarship Council (CSC)
 
 ### **MSc in Business Information Systems** *(Financial and Intelligent Technology Stream)*
 * **University:** [City University of Hong Kong](https://www.cityu.edu.hk/)
